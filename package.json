@@ -1,0 +1,6 @@
+{
+  "name": "micro-front-app",
+  "version": "0.0.1",
+  "description": "Vue微前端demo, 基于 qiankun.js + vue + vue-admin-template",
+  "author": "caozhijian <1205234934@qq.com>"
+}
